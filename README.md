@@ -12,7 +12,7 @@ This project is structured as follows:
 
 ## Getting Started
 
-To get started with this project, you'll need to have a basic understanding of the ink scripting language. See [ink - inkle's scripting language for games.](https://www.inklestudios.com/ink/).
+To get started with this project, you'll need to have a basic understanding of the ink scripting language. See [ink - inkle's narrative scripting language](https://www.inklestudios.com/ink/).
 
 ## Running the Game
 

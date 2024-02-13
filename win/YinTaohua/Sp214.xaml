@@ -1,0 +1,61 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    <Section x:Key="v2023">
+        <Paragraph>
+            和上司沟通后，2月14日请了一整天无薪假。
+            <LineBreak/>
+            我打算睡一整天，在床头柜上准备好糖水用于中途醒来的补充。
+            <LineBreak/>
+            虽然是情人节，似乎除了更漫长的梦中约会也做不了特别的事，现实中购买的礼物无法带入梦中，梦中得到的礼物醒来也不会存在。
+            <LineBreak/>
+            所以我想，今天也一样，就这样沉入睡眠。
+            <LineBreak/>
+
+            <LineBreak/>
+            进入梦境，我坐在自己的房间里，千氺穿了件制服，金色的领结闪闪发光，一脸认真。
+            <LineBreak/>
+            “我为你准备了情人节礼物！”
+            <LineBreak/>
+            千氺牵着我的手走出房间，场景迅速切换到小区门口的便利店，千氺走到卖彩票的柜台。
+            <LineBreak/>
+            “你去买一张！”
+            <LineBreak/>
+            听到这句话，我就醒来了。
+            <LineBreak/>
+
+            <LineBreak/>
+            哎？今天不要睡觉，而要去买彩票吗？
+            <LineBreak/>
+            我简单穿着下出门到便利店，走向彩票柜台，闭着眼睛，想着千氺，像抽签一样抽出了一张彩票。
+            <LineBreak/>
+            付款后用指甲刮，刮出一个500元，一个20元。
+        </Paragraph>
+        <Paragraph TextAlignment="Right">
+            （2023年情人节特典 终）
+        </Paragraph>
+    </Section>
+    <Section x:Key="v2024">
+        <Paragraph>
+            最近千氺有点奇怪，来得不太频繁，大概一周来两三次的样子，说是有事。
+            <LineBreak/>
+            到了2月14日，我一如既往请假在家睡觉，千氺很认真严肃地出现了。
+            <LineBreak/>
+            开口就是：“你能记住长串字母和数字吗？”
+            <LineBreak/>
+            应该可以？
+            <LineBreak/>
+            <LineBreak/>
+            接下来的梦境十分烧脑，一个绿色的界面上看到了一串字母和数字，我在软键盘上反复输入这一串文本。
+            <LineBreak/>
+            输入了好几次，终于记下来了，是wx_xyai128。
+            <LineBreak/>
+            这……是微信号？
+            <LineBreak/>
+            <LineBreak/>
+            于是我试着用微信加了一下，真的有这个账号，看朋友圈对方是做AI聊天的。
+        </Paragraph>
+        <Paragraph TextAlignment="Right">
+            （2024年情人节特典 终）
+        </Paragraph>
+    </Section>
+</ResourceDictionary>

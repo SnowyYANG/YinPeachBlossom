@@ -1,0 +1,49 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    <Section x:Key="q2023">
+        <Paragraph>
+            虽然幻听没有多少改善，医生并没有让我继续住院，听说病床周转次数是医院的一个KPI。
+            <LineBreak/>
+            出院的我有些迷茫，我依然能听见各种各样的声音，复学很困难，工作更难。
+            <LineBreak/>
+            氯氮平还在继续服用中，据千氺说这个药对她有影响，所以我也听不见千氺的声音，梦不见千氺。
+            <LineBreak/>
+            不过，即使幻听让我烦恼，只要每天吃饭睡觉，我还能继续活下去。
+            <LineBreak/>
+            耳边不知有多少声音要我死，诚然现在的生活看不见希望，但内心总有个意念不让我选择死亡。
+            <LineBreak/>
+            我不知道这个意念来自何处，也许是弗洛伊德所谓的本我或超我，也许……
+            <LineBreak/>
+            ……也许是千氺向我传达的意念吧。
+            <LineBreak/>
+            但是现在的我该如何营生呢？
+            <LineBreak/>
+
+            <LineBreak/>
+            明天是清明节，按照往年经验，幻听并不会变多或者变少，和往常一样。
+            <LineBreak/>
+            不过晚上吃药，剥氯氮平的时候药粒飞出去不知掉在哪里了。
+            <LineBreak/>
+            我感到一阵烦躁，突然又感到一瞬间的可怕的平静，我想，这个药还是不吃了吧。
+            <LineBreak/>
+            毕竟，比起现实，千氺对我更重要。
+            <LineBreak/>
+
+            <LineBreak/>
+            晚上睡觉并没有什么特别，但是午睡的时候，我听到那个熟悉的声音，在一遍又一遍的唱一首歌。
+            <LineBreak/>
+            我一边认真地听着那个声音，尝试记忆歌词歌曲。
+            <LineBreak/>
+            醒来，我立刻用手机录下自己对梦中歌曲的哼唱，将录音输入AI后微调做成歌曲。
+            <LineBreak/>
+            然后在视频平台注册了一个号，昵称就叫千氺，将歌曲配图做成视频上传。
+            <LineBreak/>
+            视频出奇地受欢迎，有些人评论“仿佛听见了来自另一个世界的歌曲”。
+            <LineBreak/>
+            我会让你存在于现实中。
+        </Paragraph>
+        <Paragraph TextAlignment="Right">
+            （2023清明节特典，终）
+        </Paragraph>
+    </Section>
+</ResourceDictionary>

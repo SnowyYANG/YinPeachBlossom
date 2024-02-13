@@ -77,6 +77,12 @@ namespace YinTaohua
             doc.Blocks.InsertBefore(back, section);
             menu.Visibility = Visibility.Collapsed;
             docViewer.Visibility = Visibility.Visible;
+            //reset scrollbar
+            var scrollViewer = GetScrollViewer(docViewer) as ScrollViewer;
+            if (scrollViewer != null)
+            {
+                scrollViewer.ScrollToVerticalOffset(0);
+            }
         }
 
         private void back_Click(object sender, RoutedEventArgs e)

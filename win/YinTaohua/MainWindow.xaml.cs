@@ -370,7 +370,7 @@ namespace YinTaohua
 
         private void TextBlock_MouseRightButtonDown(object sender, MouseButtonEventArgs e)
         {
-            if (Keyboard.IsKeyDown(Key.LeftShift))
+            if (Keyboard.IsKeyDown(Key.LeftShift) && Keyboard.IsKeyDown(Key.LeftAlt))
             {
                 sp214.Visibility = Visibility.Visible;
                 sp4.Visibility = Visibility.Visible;

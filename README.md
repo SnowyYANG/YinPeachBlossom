@@ -8,7 +8,7 @@ This project is structured as follows:
 
 - The `.ink` files located in the root directory are the original source files for the interactive story.
 - The `txt` directory contains extra contents such as opening poetry, Valentine activities, etc.
-- The `win` directory contains a native WPF game that uses the Steamworks API.
+- The `win` directory contains a native Windows application that uses WPF and the Steamworks API.
 
 ## Getting Started
 

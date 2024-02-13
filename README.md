@@ -1,4 +1,4 @@
-# Yin Peach Blossom
+# Yin Peach Blossom (阴桃花)
 
 **Yin Peach Blossom** is an interactive novel that utilizes the syntax of ink. 
 

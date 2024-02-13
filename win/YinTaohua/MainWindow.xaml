@@ -117,11 +117,7 @@
                             <TextBlock Text="缘非因果结  心思祸福酿"/>
                             <StackPanel Orientation="Horizontal">
                                 <TextBlock Text="有情诺百世  无姻怨"/>
-                                <TextBlock Text="阴" Foreground="{Binding Background,ElementName=mw}">
-                                    <TextBlock.Effect>
-                                        <DropShadowEffect BlurRadius="10" ShadowDepth="0" Color="{Binding Foreground.Color,ElementName=mw}"/>
-                                    </TextBlock.Effect>
-                                </TextBlock>
+                                <TextBlock Text="阴" Foreground="{Binding Background,ElementName=mw}" Background="#888"/>
                                 <TextBlock Text="阳"/>
                             </StackPanel>
                         </StackPanel>

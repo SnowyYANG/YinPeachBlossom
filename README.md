@@ -16,7 +16,7 @@ To get started with this project, you'll need to have a basic understanding of t
 
 ## Running the Game
 
-To run the game, navigate to the `win` directory and compile and execute the source. Debug mode is preferred. Please note that you'll need Steam client. You can access the game directly from [阴桃花 on Steam](https://store.steampowered.com/app/2116000/_/)).
+To run the game, navigate to the `win` directory and compile and execute the source. Debug mode is preferred. Please note that you'll need Steam client. You can access the game directly from [阴桃花 on Steam](https://store.steampowered.com/app/2116000/_/).
 
 ## License
 

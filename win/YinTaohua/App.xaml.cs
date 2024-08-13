@@ -19,7 +19,8 @@ namespace YinTaohua
         protected override void OnStartup(StartupEventArgs e)
         {
             if (SteamAPI.RestartAppIfNecessary((AppId_t)2116000)) Shutdown();
-            SteamAPI.Init();
+            if (!SteamAPI.Init()) 
+                ;//break debugger
             timer = new Timer((s) => { SteamAPI.RunCallbacks(); }, null, 30, 30);
             base.OnStartup(e);
         }

@@ -376,5 +376,10 @@ namespace YinTaohua
                 sp4.Visibility = Visibility.Visible;
             }
         }
+
+        private void meng_Click(object sender, RoutedEventArgs e)
+        {
+            new MengTaohua().Show();
+        }
     }
 }

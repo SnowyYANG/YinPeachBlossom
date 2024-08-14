@@ -97,6 +97,9 @@
                             <TextBlock Margin="5" HorizontalAlignment="Center">
                                 <Hyperlink Foreground="{Binding Foreground,ElementName=mw}" Click="game_Click">开始</Hyperlink>
                             </TextBlock>
+                            <TextBlock Margin="5" HorizontalAlignment="Center">
+                                <Hyperlink Foreground="{Binding Foreground,ElementName=mw}" Click="meng_Click">梦桃花</Hyperlink>
+                            </TextBlock>
                             <TextBlock x:Name="sp214"  Margin="5" HorizontalAlignment="Center" Visibility="Collapsed">
                                 <Hyperlink Foreground="#fec8ff" Click="sp214_Click">情人节特典</Hyperlink>
                             </TextBlock>

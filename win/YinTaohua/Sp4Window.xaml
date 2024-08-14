@@ -11,6 +11,6 @@
             <FlowDocument Foreground="#CBEBFF" FontFamily="思源宋体 CN" FontSize="20" LineHeight="40">
             </FlowDocument>
         </FlowDocumentScrollViewer>
-        <TextBlock Text="维护中……请等待2024年清明节更新" FontSize="20" Foreground="#cbebff" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+        <TextBlock Text="维护中……" FontSize="20" Foreground="#cbebff" HorizontalAlignment="Center" VerticalAlignment="Center"/>
     </Grid>
 </Window>

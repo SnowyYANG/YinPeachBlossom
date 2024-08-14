@@ -63,6 +63,9 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
+    <Compile Include="MengTaohua.xaml.cs">
+      <DependentUpon>MengTaohua.xaml</DependentUpon>
+    </Compile>
     <Compile Include="Sp4Window.xaml.cs">
       <DependentUpon>Sp4Window.xaml</DependentUpon>
     </Compile>
@@ -90,6 +93,10 @@
     <Page Include="Sp4.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="MengTaohua.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
     </Page>
     <Page Include="Sp4Window.xaml">
       <Generator>MSBuild:Compile</Generator>

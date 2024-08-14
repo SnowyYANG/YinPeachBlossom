@@ -381,5 +381,9 @@ namespace YinTaohua
         {
             new MengTaohua().Show();
         }
+        private void yan_Click(object sender, RoutedEventArgs e)
+        {
+            new YanTaohua().Show();
+        }
     }
 }

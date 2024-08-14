@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:YinTaohua"
         mc:Ignorable="d"
-        Title="梦桃花 - 《阴桃花》七夕番外篇" Height="600" Width="600" Background="#FFCCEBD6">
+        Title="梦桃花 - 《阴桃花》七夕番外篇" Height="600" Width="800" Background="#FFCCEBD6">
     <Grid>
         <FlowDocumentScrollViewer PreviewMouseWheel="FlowDocumentScrollViewer_PreviewMouseWheel">
             <FlowDocument Foreground="#FF543056" FontFamily="思源宋体 CN" FontSize="20" LineHeight="40">

@@ -1,0 +1,57 @@
+﻿<Window x:Class="YinTaohua.YanTaohua"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:YinTaohua"
+        mc:Ignorable="d"
+        Title="魇桃花 - 《阴桃花》if外传" Height="600" Width="800" Background="#f000">
+    <Grid>
+        <FlowDocumentScrollViewer PreviewMouseWheel="FlowDocumentScrollViewer_PreviewMouseWheel">
+            <FlowDocument Foreground="#Ff00" FontFamily="思源宋体 CN" FontSize="20" LineHeight="40">
+                <Paragraph TextAlignment="Center" FontSize="24" FontWeight="Bold">魇桃花</Paragraph>
+                <Paragraph>
+                    <LineBreak/>
+                    睡眠瘫痪，俗称梦魇，一种常见的难受的病症，因为致死率几乎为0，医学上没什么治疗手段。
+                    <LineBreak/>
+                    知道是梦，梦中难受，但很难醒来，一直在梦中受折磨。
+                    <LineBreak/>
+                    我……算是受折磨吗？
+                    <LineBreak/>
+                    从没什么印象的某一天开始，我似乎就能感觉到梦中有个女孩，想对我说很多很多话。
+                    <LineBreak/>
+                    有的时候是能听到她的一些话的，比如“我喜欢你”之类的，曾经这句话无限循环了整个梦境。有的时候她似乎不高兴，可能我在梦中总是试图醒来吧。但我是真的不高兴。
+                    <LineBreak/>
+                    也许这只是个常见的精神疾病现象，但我确实有点妄想梦中的她是真实存在的一个意识了，一个骚扰我的意识。
+                    <LineBreak/>
+
+                    <LineBreak/>
+                    我还没有喜欢的人，如果是现实中有女孩对我表白也许我会高兴，但天天这样缠着我就算是现实中的女孩我也会烦躁。我不知道所谓爱情是什么，但我觉得人与人之间尊重是交往（广义）的大前提。现在的我不太想体验爱情，并不是因为事业忙碌，而是……好像我也找不到什么理由，就是直觉上的不想。
+                    <LineBreak/>
+                    父母给我介绍了心理咨询，果然挂精神科还是不太能让人接受，有的心理咨询师说了很多安抚的话，大概是叫我不要介意这种现象之类的，有的心理咨询师建议我现实中恋爱，有的心理咨询师建议我挂精神科治疗，但是无论做了多少心理咨询，睡眠瘫痪和梦中的少女都没有消失。
+                    <LineBreak/>
+                    这一次又是做心理咨询，这位咨询师问我，如果我追一个女生，追了很久都没追上，我会有什么感受。
+                    <LineBreak/>
+                    我回答：“也许我会很痛苦，但我会尊重她的选择。确定恋爱关系是彼此共同的选择，人与人是平等的，她有拒绝我的权利，我会尊重她拒绝我的选择，所以根本不会追求很久。”
+                    <LineBreak/>
+                    说完这句话，我突然觉得内心变平静了。
+                    <LineBreak/>
+                    咨询师问我：“那你如何看待对感情的执着呢？”
+                    <LineBreak/>
+                    我说：“如果我真的很喜欢一个女生，就算她拒绝了我，我也会继续喜欢她，但我不会干涉她的恋爱与选择的自由。”
+                    <LineBreak/>
+                    咨询师：“你觉得单相思痛苦吗？”
+                    <LineBreak/>
+                    我想了很久，答不上来，只能说：“我没有体验过，不知道。”
+                    <LineBreak/>
+                    咨询室的窗子没有锁紧，风吹了进来，我的双眼莫名湿润，那天之后，睡眠瘫痪消失了。
+                </Paragraph>
+                <Paragraph TextAlignment="Right">
+                    Snowy
+                    <LineBreak/>
+                    2024年8月3日
+                </Paragraph>
+            </FlowDocument>
+        </FlowDocumentScrollViewer>
+  </Grid>
+</Window>

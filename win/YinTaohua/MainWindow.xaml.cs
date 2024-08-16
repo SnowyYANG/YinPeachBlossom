@@ -383,7 +383,8 @@ namespace YinTaohua
         }
         private void yan_Click(object sender, RoutedEventArgs e)
         {
-            new YanTaohua().Show();
+            if (SteamUserStats.GetAchievement("persuade", out bool a) && a) new YanTaohua().Show();
+            else MessageBox.Show("通关某个结局后解锁");
         }
     }
 }

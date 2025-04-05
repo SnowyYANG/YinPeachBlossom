@@ -63,6 +63,9 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
+    <Compile Include="M2025.xaml.cs">
+      <DependentUpon>M2025.xaml</DependentUpon>
+    </Compile>
     <Compile Include="YanTaohua.xaml.cs">
       <DependentUpon>YanTaohua.xaml</DependentUpon>
     </Compile>
@@ -89,6 +92,10 @@
       <DependentUpon>MainWindow.xaml</DependentUpon>
       <SubType>Code</SubType>
     </Compile>
+    <Page Include="M2025.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
     <Page Include="YanTaohua.xaml">
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>

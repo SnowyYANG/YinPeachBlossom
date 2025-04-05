@@ -381,6 +381,16 @@ namespace YinTaohua
         {
             new MengTaohua().Show();
         }
+        private void mth_Click(object sender, RoutedEventArgs e)
+        {
+            var t = m0.Visibility;
+            m0.Visibility = mth.Visibility;
+            mth.Visibility = t;
+        }
+        private void m2025_Click(object sender, RoutedEventArgs e)
+        {
+            new M2025().Show();
+        }
         private void yan_Click(object sender, RoutedEventArgs e)
         {
             if (SteamUserStats.GetAchievement("persuade", out bool a) && a) new YanTaohua().Show();

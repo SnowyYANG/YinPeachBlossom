@@ -4,6 +4,8 @@
              xmlns:local="clr-namespace:YinTaohua"
              StartupUri="MainWindow.xaml">
     <Application.Resources>
-         
+        <Style TargetType="FlowDocument">
+            <Setter Property="FontFamily" Value="思源宋体 CN"/>
+        </Style>
     </Application.Resources>
 </Application>

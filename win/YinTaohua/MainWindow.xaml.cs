@@ -379,7 +379,7 @@ namespace YinTaohua
 
         private void meng_Click(object sender, RoutedEventArgs e)
         {
-            new MengTaohua().Show();
+            new Meng2024().Show();
         }
         private void mth_Click(object sender, RoutedEventArgs e)
         {
@@ -389,11 +389,11 @@ namespace YinTaohua
         }
         private void m2025_Click(object sender, RoutedEventArgs e)
         {
-            new M2025().Show();
+            new Meng2025().Show();
         }
         private void yan_Click(object sender, RoutedEventArgs e)
         {
-            if (SteamUserStats.GetAchievement("persuade", out bool a) && a) new YanTaohua().Show();
+            if (SteamUserStats.GetAchievement("persuade", out bool a) && a) new Yan2024().Show();
             else MessageBox.Show("通关某个结局后解锁");
         }
     }

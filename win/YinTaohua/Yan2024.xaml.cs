@@ -17,9 +17,9 @@ namespace YinTaohua
     /// <summary>
     /// Sp214Window.xaml 的交互逻辑
     /// </summary>
-    public partial class YanTaohua : Window
+    public partial class Yan2024 : Window
     {
-        public YanTaohua()
+        public Yan2024()
         {
             InitializeComponent();
         }

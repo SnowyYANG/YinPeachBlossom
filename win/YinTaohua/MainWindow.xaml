@@ -41,7 +41,7 @@
         <Grid>
             <Grid x:Name="game" Visibility="Collapsed">
                 <FlowDocumentScrollViewer x:Name="docViewer" PreviewMouseLeftButtonUp="docViewer_MouseLeftButtonUp" SizeChanged="FlowDocumentScrollViewer_SizeChanged" PreviewMouseWheel="FlowDocumentScrollViewer_PreviewMouseWheel">
-                    <FlowDocument x:Name="doc" Background="{Binding Background,ElementName=mw}" Foreground="{Binding Foreground,ElementName=mw}" FontFamily="思源宋体 CN" MouseLeftButtonDown="doc_MouseLeftButtonDown">
+                    <FlowDocument x:Name="doc" Background="{Binding Background,ElementName=mw}" Foreground="{Binding Foreground,ElementName=mw}" MouseLeftButtonDown="doc_MouseLeftButtonDown">
                         <Paragraph TextAlignment="Center" FontSize="24" FontWeight="Bold">阴桃花</Paragraph>
                         <Paragraph x:Name="main" FontSize="20" LineHeight="40" Margin="0"/>
                         <Paragraph x:Name="choiceMenu" TextAlignment="Center" FontSize="20" LineHeight="40" Margin="0"/>
@@ -122,10 +122,10 @@
                             </StackPanel>
                             <StackPanel x:Name="mth" HorizontalAlignment="Center" VerticalAlignment="Center" Visibility="Collapsed">
                                 <TextBlock Background="#333" HorizontalAlignment="Center">
-                                    <Hyperlink Foreground="#fff" Click="m2025_Click">乙巳年清明版</Hyperlink>
+                                    <Hyperlink Foreground="#fff" Click="m2025_Click">乙巳清明版</Hyperlink>
                                 </TextBlock>
                                 <TextBlock HorizontalAlignment="Center">
-                                    <Hyperlink Foreground="#e8f" Click="meng_Click">甲辰年七夕版</Hyperlink>
+                                    <Hyperlink Foreground="#e8f" Click="meng_Click">甲辰七夕版</Hyperlink>
                                 </TextBlock>
                                 <TextBlock HorizontalAlignment="Center">
                                     <Hyperlink Foreground="#888" Click="mth_Click">返回</Hyperlink>

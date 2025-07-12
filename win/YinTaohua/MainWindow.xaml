@@ -152,7 +152,7 @@
                     </Grid>
                 </Grid>
             </Viewbox>
-            <TextBlock Opacity="0.75" Text="本游戏不支持Steam界面，解锁成就不会弹窗。情人节、清明节特典改版维护中。" Visibility="{Binding Visibility,ElementName=menu}" Margin="6" FontSize="12" HorizontalAlignment="Left" VerticalAlignment="Bottom"/>
+            <TextBlock Opacity="0.75" Text="本游戏不支持Steam界面，解锁成就不会弹窗。" Visibility="{Binding Visibility,ElementName=menu}" Margin="6" FontSize="12" HorizontalAlignment="Left" VerticalAlignment="Bottom"/>
             <CheckBox x:Name="night" Content="夜间模式" Click="night_Click" Foreground="{Binding Foreground,ElementName=mw}" Visibility="{Binding Visibility,ElementName=menu}" Margin="0,0,20,0" FontSize="12" HorizontalAlignment="Right" VerticalAlignment="Top"/>
         </Grid>
         <TextBlock Opacity="0.75" FontSize="12" Padding="6" Margin="0,0,20,0" HorizontalAlignment="Right" VerticalAlignment="Bottom">

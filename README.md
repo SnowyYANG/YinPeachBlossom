@@ -1,10 +1,5 @@
 # 阴桃花 (Yin Peach Blossom)
 
-十年独窗下 湖畔梦千水  
-桃花鹦鹉舌 勿忘我额妆  
-缘非因果结 心思祸福酿  
-情深诺百世 无姻怨阴阳  
-
 **Yin Peach Blossom** is an interactive novel that utilizes the syntax of ink. 
 
 ## Project Structure
